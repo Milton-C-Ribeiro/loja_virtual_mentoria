@@ -55,6 +55,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.postgresql</groupId>
+			<version>42.2.5</version><!--$NO-MVN-MAN-VER$-->
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
